@@ -1,0 +1,1 @@
+hi, not really much to say! this is my first project so its not brilliant and it did take me almost forty minutes (nevermind the set up time and the time it took to vaguely understand git, github and vs code) so yep! we all start somewhere i guess :)
